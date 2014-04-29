@@ -1,4 +1,4 @@
-# Reddit Engineering Style Guides
+# reddit engineering style guides
 
 Herein lies a collection of styleguides to which which the Reddit codebase
 strives to conform.
