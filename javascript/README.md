@@ -875,7 +875,7 @@
 
 ## Semicolons
 
-  - **Yup.**
+  - **Nope.**
 
     ```javascript
     // bad
