@@ -10,7 +10,7 @@ correct than it is to be *absolutely* correct.
 
 ## "Reddit"
 
-reddit is always lowercase, even at the start of sentences. 
+reddit is always lowercase, even at the start of sentences. Many headings and messages around the site are stylistically lowercased as well.
 
 ## Git workflow
 
