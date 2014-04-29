@@ -1,6 +1,6 @@
-# reddit engineering style guides
+# reddit engineering style guide
 
-Herein lies a collection of styleguides to which which the reddit codebase
+Herein lies a multilingual style guide to which which the reddit codebase
 strives to conform.
 
 * [General Style Guidelines](general-style-guidelines/) - good ideas to follow
