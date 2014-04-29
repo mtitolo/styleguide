@@ -8,6 +8,10 @@ additional resources.
 Follow the style of the file you're in. It's more important to be *contextually*
 correct than it is to be *absolutely* correct.
 
+## "Reddit"
+
+reddit is always lowercase, even at the start of sentences. 
+
 ## Git workflow
 
 ### Use verbose, topical branches.
