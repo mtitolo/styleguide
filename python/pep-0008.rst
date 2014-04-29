@@ -247,6 +247,23 @@ before it.  Some examples::
             Blob.__init__(self, width, height,
                           color, emphasis, highlight)
 
+
+The generally preferred format for a statement split across multiple
+lines is the diff-friendly format::
+
+    foo = bar(
+        a,
+        b,
+        c,
+    )
+
+However a terser form is acceptable if it's not likely the contents
+of the statement will vary independently::
+
+    foo = bar(
+        a, b, c)
+
+
 Blank Lines
 -----------
 
