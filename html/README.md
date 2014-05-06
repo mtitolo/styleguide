@@ -27,7 +27,7 @@ Add a `lang` attribute to your `<html>` tag.
 
 * Optionally include a class on body descriptive of the current page.
 * Load javascript at the bottom.
-* Use the most specific element possible; `ol` for odered lists, `a` for links, `button` for buttons.
+* Use the most specific element possible; `ol` for ordered lists, `a` for links, `button` for buttons.
   Use appropriate html5 structure elements, such as `aside` and `article`.
 
 ### `<form>`
@@ -39,7 +39,7 @@ Add a `lang` attribute to your `<html>` tag.
 * 2 space indentation.
 * Always use quotes for attributes.
 * Use "double quotes" for attributes.
-* `html5` allows the skipping of closing tags (the `/` in `<br />`); do so consistently.
+* Don't use a closing `/` in self-closing tags, such as `<br>`.
 * CSS classes should be lowercase, hyphenated, and descriptive. `.upvote-arrow-active`, not `.upvoted`.
 
 ## Template Guidelines
