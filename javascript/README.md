@@ -1257,6 +1257,19 @@
     })
     ```
 
+  - For event handlers, prefix with "on" and use the present tense. Prefer "on" + eventName, but if ambiguous other words may be used.
+
+    ```js
+    // bad
+    this.listenTo(this.model, 'add', this.added)
+
+    // good
+    this.listenTo(this.model, 'add', this.onAdd)
+
+    // also good
+    this.listenTo(this.model, 'add', this.onAddItem)
+    ```
+
   **[⬆ back to top](#table-of-contents)**
 
 
