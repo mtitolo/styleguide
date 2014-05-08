@@ -624,7 +624,7 @@
 
 ## Comments
 
-  - Use `/** ... */` for multiline comments. Include a description, specify types and values for all parameters and return values.
+  - Use `/** ... */` for docstring comments. Include a description, specify types and values for all parameters and return values.
 
     ```javascript
     // bad
@@ -656,7 +656,7 @@
     }
     ```
 
-  - Use `//` for single line comments. Place single line comments on a newline above the subject of the comment. Put an empty line before the comment.
+  - Use `//` for single line comments and multi-line comments that aren't docstrings. Place single line comments on a newline above the subject of the comment. Put an empty line before the comment.
 
     ```javascript
     // bad
