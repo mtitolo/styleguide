@@ -778,7 +778,7 @@
     // good
     (function(global) {
       // ...stuff...
-    })(this)
+    })(this)↵
     ```
 
     ```javascript
@@ -786,7 +786,14 @@
     (function(global) {
       // ...stuff...
     })(this)
+    ```
 
+    ```javascript
+    // bad
+    (function(global) {
+      // ...stuff...
+    })(this)↵
+    ↵
     ```
 
   - Use indentation when making long method chains.
