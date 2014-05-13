@@ -772,17 +772,17 @@
     var x = y + 5
     ```
 
-  - Place an empty newline at the end of the file.
+  - Files should end with a single newline character.
 
     ```javascript
-    // bad
+    // good
     (function(global) {
       // ...stuff...
     })(this)
     ```
 
     ```javascript
-    // good
+    // bad
     (function(global) {
       // ...stuff...
     })(this)
